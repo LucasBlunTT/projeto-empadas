@@ -13,6 +13,9 @@ Redirecionamento
 
 Uso de Tabelas no HTML
 
+## 📷 Screenshot 
+![image](https://github.com/user-attachments/assets/80480469-decc-4da2-a521-ba54549d26f8)
+
 ## 💻 Tecnologias utilizadas
 - HTML
 - CSS
