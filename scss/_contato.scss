@@ -1,0 +1,58 @@
+section {
+  .bg-contato {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 100%;
+    max-width: 600px;
+
+    h2 {
+      color: #ff8f00;
+      margin-top: 0;
+    }
+
+    span {
+      display: block;
+      margin-bottom: 20px;
+      color: #666;
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+
+      label {
+        margin-bottom: 5px;
+        color: #333;
+      }
+
+      input,
+      textarea {
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        margin-bottom: 15px;
+        font-size: 16px;
+      }
+
+      textarea {
+        resize: vertical;
+      }
+
+      button {
+        background-color: #ff8f00;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 16px;
+
+        &:hover {
+          background-color: #ff6f00;
+        }
+      }
+    }
+  }
+}
